@@ -21,7 +21,7 @@ Where K>0 (gain) and T>0 (time constant).
 </figure>
 
 <figure>
-    <img src="src/Screenshot from 2024-04-22 13-00-49.png" alt="Image">
+    <img src="Screenshot from 2024-04-22 13-00-49.png" alt="Image">
     <figcaption align="center">Python program interface and output </figcaption>
 </figure>
 
@@ -34,12 +34,12 @@ Where K>0 (gain) and T>0 (time constant).
 
 
 <figure>
-    <img src="src/Figure_1.png" alt="Image">
+    <img src="Figure_1.png" alt="Image">
     <figcaption align="center">Step Response of the system </figcaption>
 </figure>
 
 <figure>
-    <img src="src/Screenshot from 2024-04-22 13-01-34.png" alt="Image">
+    <img src="Screenshot from 2024-04-22 13-01-34.png" alt="Image">
     <figcaption align="center">Python program interface and output</figcaption>
 </figure>
 
@@ -52,12 +52,12 @@ Where K, A, and B are positive constants, and the system is stable.
 
 
 <figure>
-    <img src="src/Figure_3.png" alt="Image">
+    <img src="Figure_3.png" alt="Image">
     <figcaption align="center">Step Response of the system </figcaption>
 </figure>
 
 <figure>
-    <img src="src/Screenshot from 2024-04-22 14-09-40.png" alt="Image">
+    <img src="Screenshot from 2024-04-22 14-09-40.png" alt="Image">
     <figcaption align="center">Python program interface and output </figcaption>
 </figure>
 
