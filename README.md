@@ -16,7 +16,7 @@ G(s) = K / (1 + Ts)
 Where K>0 (gain) and T>0 (time constant).
 
 <figure>
-    <img src="src/Figure_2.png" alt="Image">
+    <img src="Figure_2.png" alt="Image">
     <figcaption align="center">Step Response of the system </figcaption>
 </figure>
 
